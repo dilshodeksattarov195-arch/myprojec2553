@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcetch",
+        "uuid": 14802294,
+        "checksum": "vxwr9p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
